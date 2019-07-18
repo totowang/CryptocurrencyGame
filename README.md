@@ -7,11 +7,11 @@
 4. 撰寫購物、獎勵、捐贈、遊戲外部參數調整及 Log 檔案產出等功能。
 
 另外使用到的主要資源如下：
-1. 2D Game Kit 
+1. 2D Game Kit <br>
 https://assetstore.unity.com/packages/essentials/tutorial-projects/2d-game-kit-107098
 
-2. Nethereum 
-https://nethereum.com/ 
+2. Nethereum <br>
+https://nethereum.com/ <br>
 https://github.com/Nethereum/Unity3dSimpleSample
 
 因為我不太會用Github，若有任何疑問或建議，歡迎到我的 Blog 留言討論，謝謝。
