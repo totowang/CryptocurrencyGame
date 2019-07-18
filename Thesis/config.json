@@ -1,0 +1,15 @@
+{
+	"url" : "https://ropsten.infura.io",
+    "adminAddress" : "0xADMIN_ADDRESS",
+    "adminPrivateKey" : "0xADMIN_PRIVATE_KEY",
+    "contractAddress" : "0xCONTRACT_ADDRESS",
+    "userAddress" : "0xUSER_ADDRESS",
+    "userPrivateKey" : "0xUSER_PRIVATE_KEY",
+	"hasNTD" : false,
+	"isToken" : true,
+	"exRate" : 2,
+	"NBoxValue" : 1,
+	"SBoxValue" : 3,
+	"GBoxValue" : 5,
+	"balanceBeforeDonate" : 10,
+}

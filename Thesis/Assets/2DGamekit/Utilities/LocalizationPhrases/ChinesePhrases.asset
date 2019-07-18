@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fb98d8da5f4a244490d8e8d0cfef54a, type: 3}
+  m_Name: ChinesePhrases
+  m_EditorClassIdentifier: 
+  language: Chinese
+  phrases:
+  - key: INFOPOST1
+    value: "\u54C8\u56C9\uFF1F\u6309\u4E0B\u7A7A\u767D\u9375\u53EF\u4EE5\u8DF3\u8D77\u4F86\u54E6\uFF01"
+  - key: INFOPOST2
+    value: "\u6309\u4E0BS\u8DDF\u7A7A\u767D\u9375\u5F80\u4E0B\u8DF3\u5427!"
+  - key: INFOPOST3
+    value: "\u6309\u4E0BK\u6216O\u8A66\u8457\u653B\u64CA\u5DE6\u908A\u7684\u67F1\u5B50"
+  - key: WELCOME
+    value: "\u6309\u4E0B\u9375\u76E4 W\u3001A\u3001S\u3001D \u958B\u59CB\u79FB\u52D5\u3002"
+  - key: INFOPOST4
+    value: "\u6309\u4E0BK\u6216O\u8A66\u8457\u653B\u64CA\u5DE6\u908A\u7684\u67F1\u5B50"
+  originalPhrases: {fileID: 11400000, guid: 9cc6d1d2be2e5d446a3ab8b4f207bb66, type: 2}

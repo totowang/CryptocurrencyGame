@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97933d85c6acddc4bb95f77ca8cc0280, type: 3}
+  m_Name: TW
+  m_EditorClassIdentifier: 
+  language: tw
+  phrases:
+  - key: WELCOME
+    value: "\u54C8\u56C9\u55B5\uFF1F\u6709\u6C92\u6709\u4EBA\uFF1F...\u554A\uFF01\u8ACB\u60A8\u5FEB\u4F86\u6551\u6211\u5011\u55B5\uFF01
+      \                          \uFF08\u6309\u4E0B\u9375\u76E4 A\u3001D\u3001S \u958B\u59CB\u79FB\u52D5\u3002\uFF09 "
+  - key: INFOPOST1
+    value: "\u6309\u4E0B\u7A7A\u767D\u9375\u53EF\u4EE5\u8DF3\u8D77\u4F86\u55B5\uFF01"
+  - key: INFOPOST2
+    value: "\u6309\u4E0BS\u8DDF\u7A7A\u767D\u9375\u5F80\u4E0B\u8DF3\u55B5\uFF01 "
+  - key: INFOPOST3
+    value: "\u6309\u4E0BK\u6216O\uFF0C\u597D\u50CF\u53EF\u4EE5\u653B\u64CA\u5DE6\u908A\u7684\u67F1\u5B50\u55B5\u3002"
+  - key: INFOPOST4
+    value: "\u9577\u6309\u7A7A\u767D\u9375\u53EF\u4EE5\u66F4\u7528\u529B\u5730\u5F80\u4E0A\u8DF3\u55B5\uFF01"
+  - key: SEND
+    value: "\u60A8\u7684\u6B66\u5668\u5DF2\u9001\u9054\u55B5\uFF01\uFF01\uFF01  \u5F9E\u76D2\u5B50\u958B\u51FA\u7684\u6B66\u5668\uFF1A"
+  - key: INFOPOST5
+    value: "\u6700\u4E0B\u9762\u7684\u8DEF\u5DF2\u7D93\u53EF\u4EE5\u8D70\u4E86\uFF0C\u5230\u53F3\u4E0B\u89D2\u627E\u9470\u5319\u55B5\uFF01"
+  - key: INFOPOST6
+    value: "\u524D\u9762\u770B\u8D77\u4F86\u7121\u6CD5\u901A\u884C\uFF0C\u5F80\u4E0A\u65B9\u627E\u627E\u770B\u6709\u6C92\u6709\u6A5F\u95DC\u55B5\u3002"
+  - key: DOOR
+    value: "\u8490\u96C6\u52303\u628A\u9470\u5319\u4E4B\u5F8C\uFF0C\u6309\u4E0BE\u5C31\u6703\u6253\u958B\u901A\u5F80Boss\u7684\u9580\u55B5\u3002\u8ACB\u5343\u842C\u8981\u5C0F\u5FC3\u554A\u55B5\uFF01"
+  - key: INFOPOST7
+    value: "\u5DE6\u908A\u4F3C\u4E4E\u9084\u6709\u8DEF\u53EF\u4EE5\u8D70\u55B5..."
